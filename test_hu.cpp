@@ -1,3 +1,4 @@
+//Code by Bente Tamás Ferencz
 #include <iostream>
 #include <fstream>
 #include <algorithm>
